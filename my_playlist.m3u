@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0,Тюменское время
+#EXTINF:-1 group-title="ОБЩИЕ",Тюменское время
 https://sibinformburo-live.cdnvideo.ru/sibinformburo-srt/sibinformburo/tracks-v1a1/mono.m3u8
